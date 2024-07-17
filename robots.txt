@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://latrostal.github.io/sitemap
+Sitemap: https://latrostal.github.io/app/sitemap
+Sitemap: https://latrostal.github.io/assets/sitemap
+Sitemap: https://latrostal.github.io/css/sitemap
+Sitemap: https://latrostal.github.io/includes/sitemap
+Sitemap: https://latrostal.github.io/item/sitemap
+Sitemap: https://latrostal.github.io/src/sitemap
